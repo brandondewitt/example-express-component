@@ -1,0 +1,8 @@
+{ "name": "base-styles",
+  "dependencies": {
+    "brighthas/bootstrap": "*"
+  },
+  "styles": [
+    "base-styles.css"
+  ]
+}

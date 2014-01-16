@@ -1,0 +1,4 @@
+{ "name": "client", 
+  "paths": ["."],
+  "local": ["home"]
+}

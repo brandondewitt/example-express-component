@@ -1,0 +1,10 @@
+extends ../views/layout
+
+block styles
+    link(rel='stylesheet',href='home/build.css')
+block content
+    h1.hello Hello
+
+    script(src='home/build.js')
+    script.
+        require('home');
